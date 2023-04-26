@@ -4,11 +4,11 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
-  margin-bottom: 20px;
 }
 
 .grid-item {
-  height: 100px;
   background-color: transparent;
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
 }
- 
